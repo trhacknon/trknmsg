@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-print (" BY CHRIST BOWEL ")
-print ("github.com/christbowel")
+print (" BY TRHACKNON ")
+print ("github.com/trhacknon")
 
 
 import requests
@@ -23,5 +23,5 @@ print(resp.json())
 
 print ("heure d'envoi : ", datetime.datetime.now())
 
-print ("thanks for using | by christ bowel ")
+print ("thanks for using | by trhacknon ")
 
