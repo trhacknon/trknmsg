@@ -1,4 +1,4 @@
-# christbowmsg
+# trknmsg
 
 Outil pour envoi de message anonymes en ligne 
 Conçu dans le but de sauvegarder la confidentialité en par message 
@@ -12,17 +12,17 @@ Pkg install python
 
 Pkg install git 
 
-git clone https://github.com/Christbowel/Christbowmsg
+git clone https://github.com/trhacknon/trknmsg
 
-python cbmsg.py 
+python trknmsg.py 
 
 
-#by Christ bowel
+#by trhacknon
 
 #faire un don sur ce PayPal
 
-PayPal : christbowel6@gmail.com
+PayPal : jeremydiliotti@gmail.com
 
 
-© Copyright  Christ bowel
+© Copyright  trhacknon
 
